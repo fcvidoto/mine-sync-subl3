@@ -1,0 +1,11 @@
+{
+    'primary': {
+        host: 'ftp.mywebsite.com',
+        username: 'johnsmith',
+        password: 'secretpassword',
+        path: '/www/',
+
+        upload_on_save: true,
+        tls: true
+    }
+}

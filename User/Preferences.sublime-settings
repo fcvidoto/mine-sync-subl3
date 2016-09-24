@@ -1,0 +1,16 @@
+{
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"tab_size": 2,
+
+	// Tema
+	"color_scheme": "Packages/User/SublimeLinter/LAZY (SL).tmTheme",
+	"theme": "Soda Light 3.sublime-theme",
+	"soda_classic_tabs": true,
+
+	// Folders on close
+	"remember_open_files": false,
+	"hot_exit": false
+}

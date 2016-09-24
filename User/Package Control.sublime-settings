@@ -1,0 +1,15 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Emmet",
+		"Package Control",
+		"SublimeLinter",
+		"SublimeLinter-contrib-pug-lint",
+		"SublimeLinter-jshint",
+		"Theme - Soda"
+	]
+}
